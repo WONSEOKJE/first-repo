@@ -1,10 +1,10 @@
-## Candidates
+## Menu for Lunch
 
 - Ramen
 - Sandwitch
 
 ## New candidates
 
-- Kimchi soup
-- Soy sauce soup
+- Steak
+- Pizza
 - Bibimbab
