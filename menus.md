@@ -1,4 +1,4 @@
-## Menus
+## Menu for Lunch
 
 - Ramen
 - Sandwitch
@@ -7,4 +7,6 @@
 
 - Steamed Kimchi
 - Chung-gook-jang
+- Steak
+- Pizza
 - Bibimbab
