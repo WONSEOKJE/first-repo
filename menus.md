@@ -1,10 +1,10 @@
-## Candidates
+## Menus
 
 - Ramen
 - Sandwitch
 
 ## New candidates
 
-- Kimchi soup
-- Soy sauce soup
+- Steamed Kimchi
+- Chung-gook-jang
 - Bibimbab
